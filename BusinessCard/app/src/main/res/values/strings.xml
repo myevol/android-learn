@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name">Sunny</string>
+    <string name="title">Software Engineer</string>
+    <string name="phone">176****9040</string>
+    <string name="email">sunny@svip.com</string>
+    <string name="address">Beijing</string>
+</resources>
