@@ -15,7 +15,9 @@ First kotlin, then Java.
 
 ### [第 2 单元：构建应用界面](https://developer.android.com/courses/android-basics-compose/unit-2?hl=zh-cn)
 
-* ...
+* KotlinLearn
+* DiceRoller
+* TipsTime
 
 ## 开发环境
 
